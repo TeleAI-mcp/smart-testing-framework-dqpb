@@ -1,2 +1,3 @@
-# smart-testing-framework-dqpb
-A automated testing framework for modern development workflows
+# Smart Testing Framework Dqpb
+
+A automated testing framework for modern development workflows.
